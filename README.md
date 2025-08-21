@@ -58,7 +58,8 @@ Step 7: Finalize and Export
 
 
 # Output
-![Uploading 12-attention-is-all-you-need.png…]()
+<img width="3000" height="2673" alt="12-attention-is-all-you-need" src="https://github.com/user-attachments/assets/8c9fac6a-eab2-45f0-9755-f24955858635" />
+
 
 # 📘 Report on Generative AI and Large Language Models
 
