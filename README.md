@@ -6,14 +6,17 @@ Develop a comprehensive report for the following exercises:
 3.	Generative AI applications.
 4.	Generative AI impact of scaling in LLMs.
 
-# Algorithm: Step 1: Define Scope and Objectives
+# Algorithm: 
+
+## Step 1: Define Scope and Objectives
+
 1.1 Identify the goal of the report (e.g., educational, research, tech overview)
 
 1.2 Set the target audience level (e.g., students, professionals)
 
 1.3 Draft a list of core topics to cover
 
-Step 2: Create Report Skeleton/Structure
+## Step 2: Create Report Skeleton/Structure
 
 2.1 Title Page
 
@@ -49,7 +52,7 @@ Step 2: Create Report Skeleton/Structure
 
 ________________________________________
 
-Step 3: Research and Data Collection
+## Step 3: Research and Data Collection
 
 3.1 Gather recent academic papers, blog posts, and official docs (e.g., OpenAI, Google AI)
 
@@ -59,7 +62,7 @@ Step 3: Research and Data Collection
 
 ________________________________________
 
-Step 4: Content Development
+## Step 4: Content Development
 
 4.1 Write each section in clear, simple language
 
@@ -71,7 +74,7 @@ Step 4: Content Development
 
 ________________________________________
 
-Step 5: Visual and Technical Enhancement
+## Step 5: Visual and Technical Enhancement
 
 5.1 Add tables, comparison charts (e.g., GPT-3 vs GPT-4)
 
@@ -81,7 +84,7 @@ Step 5: Visual and Technical Enhancement
 
 ________________________________________
 
-Step 6: Review and Edit
+## Step 6: Review and Edit
 
 6.1 Proofread for grammar, spelling, and clarity
 
@@ -93,15 +96,13 @@ Step 6: Review and Edit
 
 ________________________________________
 
-Step 7: Finalize and Export
+## Step 7: Finalize and Export
 
 7.1 Format the report professionally
 
 7.2 Export as PDF or desired format
 
 7.3 Prepare a brief presentation if required (optional)
-
-
 
 # Output
 
