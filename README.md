@@ -190,5 +190,43 @@ High Computational Requirements: Training and running Generative AI models deman
 
 Ethical and Legal Concerns: It can be misused to create harmful content like deepfakes or fake news which can spread misinformation or violate privacy. These ethical and legal challenges require careful regulation and oversight to prevent abuse.
 
+<img width="1079" height="750" alt="image" src="https://github.com/user-attachments/assets/18d3ea81-ae05-40ec-8133-be6ad1dd694b" />
+
+1. Self Attention Mechanism
+The self attention mechanism allows transformers to determine which words in a sentence are most relevant to each other. This is done using a scaled dot-product attention approach:
+
+Each word in a sequence is mapped to three vectors:
+
+Query (Q)
+Key (K)
+Value (V)
+Attention scores are computed as: 
+
+<img width="463" height="70" alt="image" src="https://github.com/user-attachments/assets/a3e27be5-e750-481a-b91c-df21058322e2" />
+
+These scores determine how much attention each word should pay to others.
+
+2. Positional Encoding
+   
+Unlike RNNs, transformers lack an inherent understanding of word order since they process data in parallel. To solve this problem Positional Encodings are added to token embeddings providing information about the position of each token within a sequence.
+
+3. Multi-Head Attention
+   
+Instead of one attention mechanism, transformers use multiple attention heads running in parallel. Each head captures different relationships or patterns in the data, enriching the model’s understanding.
+
+4. Position-wise Feed-Forward Networks
+ 
+The Feed-Forward Networks consist of two linear transformations with a ReLU activation. It is applied independently to each position in the sequence.
+
+<img width="463" height="66" alt="image" src="https://github.com/user-attachments/assets/60330814-0ed0-4c8e-acd3-aeb049c89b32" />
+
+This transformation helps refine the encoded representation at each position.
+
+5. Encoder-Decoder Architecture
+ 
+The encoder-decoder structure is key to transformer models. The encoder processes the input sequence into a vector, while the decoder converts this vector back into a sequence. Each encoder and decoder layer includes self-attention and feed-forward layers. In the decoder, an encoder-decoder attention layer is added to focus on relevant parts of the input.
+
+For example, a French sentence "Je suis étudiant" is translated into "I am a student" in English.
+
 # Result
 Thus,the result to obtain comprehensive report on the fundamentals of generative AI and Large Language Models (LLMs) has been successfully executed.
