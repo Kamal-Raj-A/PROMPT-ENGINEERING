@@ -186,16 +186,6 @@ Examples: **GPT (OpenAI), BERT (Google), LLaMA (Meta), Claude (Anthropic).**
    - APIs (OpenAI, HuggingFace).  
    - Optimized for **latency & efficiency** in real-world use cases.  
 
----
-
-## 📌 References
-- Vaswani et al., *Attention is All You Need* (2017)  
-- OpenAI GPT Research Papers  
-- Google BERT (2018)  
-- Stability AI, *Stable Diffusion Documentation*  
-- Anthropic, *Claude Model Overview*  
-
----
 
 # Result
 Thus,the result to obtain comprehensive report on the fundamentals of generative AI and Large Language Models (LLMs) has been successfully executed.
